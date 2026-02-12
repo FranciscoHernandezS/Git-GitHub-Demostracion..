@@ -13,4 +13,4 @@ print(f'\nla suma de los valores de la lista es : {suma}')
 for i in lista :
     multiplicacion *= i
 
-print(f'multiplicacion elementos lista : {multiplicacion}')
+print(f'\nmultiplicacion elementos lista : {multiplicacion}')
